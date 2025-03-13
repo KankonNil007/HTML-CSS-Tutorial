@@ -1,0 +1,11 @@
+.t1 {
+    width: 400px;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    border-radius: 17px;
+    border: none;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.214);
+}

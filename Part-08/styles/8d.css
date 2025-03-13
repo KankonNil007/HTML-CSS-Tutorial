@@ -1,0 +1,44 @@
+.t1, .t2 {
+    width: 120px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-color: rgb(217, 217, 217);
+    border-style: solid;
+}
+
+.t3 {
+    display: block;
+    width: 265px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border-color: rgb(217, 217, 217);
+    border-style: solid;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.b1 {
+    border: none;
+    background-color: rgb(0, 145, 255);
+    color: white;
+    padding-left: 109px;
+    padding-right: 109px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    transition: opacity 0.25s;
+}
+
+.b1:hover {
+    opacity: 0.7;
+}
+
+.b1:active {
+    opacity: 0.5;
+}

@@ -1,0 +1,37 @@
+.navbar {
+    position: fixed;
+    z-index: 200;
+    top: 55px;
+    left: 0;
+    width: 72px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    padding-top: 4px;
+}
+
+.sidebar {
+    width: 72px;
+    height: 74px;
+    margin-bottom: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.navbar-icons {
+    height: 24px;
+    margin-bottom: 5px;
+}
+
+.navbar-icon-details {
+    font-size: 10px;
+}
+
+.sidebar:hover {
+    background-color: lightgray;
+}

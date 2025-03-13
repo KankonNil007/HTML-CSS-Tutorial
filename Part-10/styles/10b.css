@@ -1,0 +1,89 @@
+.i1 {
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 30px;
+}
+
+.d2, .d3, .d4, .d7, .d8 {
+    display: inline-block;
+}
+
+p {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.d2 {
+    margin-right: 15px;
+    vertical-align: middle;
+}
+
+.d3 {
+    vertical-align: middle;
+    margin-right: 150px;
+}
+
+.d7{
+    margin-right: 124px;
+    vertical-align: middle;
+}
+
+.d8 {
+    vertical-align: middle;
+    margin-right: 95px;
+}
+
+.d4 {
+    vertical-align: middle;
+}
+
+.p1 {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.p2 {
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: rgb(176, 176, 176);
+}
+
+.p3 {
+    font-size: 18px;
+    color: rgb(176, 176, 176);
+}
+
+.b1 {
+    border: none;
+    background-color: rgb(34, 145, 255);
+    color: white;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    transition: opacity 0.25s;
+}
+
+.b1:hover {
+    opacity: 0.8;
+}
+
+.b1:active {
+    opacity: 0.5;
+}
+
+.d1, .d5, .d6 {
+    display: block;
+}
+
+.d1, .d5 {
+    margin-bottom: 10px;
+}

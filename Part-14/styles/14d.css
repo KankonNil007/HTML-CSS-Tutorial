@@ -1,0 +1,44 @@
+body {
+    height: 3000px;
+}
+
+.d1 {
+    background-color: green;
+    color: white;
+    right: 0;
+    position: fixed;
+    width: 100px;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+}
+
+.d2 {
+    background-color: rgba(0, 0, 0, 0.44);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.d3 {
+    height: 140px;
+    width: 330px;
+    background-color: white;
+    padding-left: 20px;
+}
+
+.p1 {
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+.p2 {
+    font-size: 18px;
+}

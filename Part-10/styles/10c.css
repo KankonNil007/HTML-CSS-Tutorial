@@ -1,0 +1,44 @@
+.i1 {
+    height: 160px;
+    width: 263.4px;
+}
+
+.d2, .d3 {
+    display: inline-block;
+}
+
+.d3 {
+    vertical-align: top;
+    margin-left: 5px;
+}
+
+p {
+    margin: 0;
+    font-family: Roboto;
+    width: 400px;
+}
+
+.p1 {
+    margin-top: 5px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    margin-bottom: 11px;
+}
+
+.p2 {
+    color: rgb(136, 136, 136);
+    margin-bottom: 10px;
+}
+
+.p3 {
+    color: rgb(136, 136, 136);
+}
+
+.d1, .d4, .d5 {
+    display: block;
+}
+
+.d1, .d4 {
+    margin-bottom: 10px;
+}
