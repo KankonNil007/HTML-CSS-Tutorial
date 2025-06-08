@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>HTML & CSS Learning Journey</title>
 </head>
 <body>
   <h1>🌐 HTML & CSS Learning Journey</h1>
@@ -11,15 +10,15 @@
   This repo contains all my practice code, mini-projects, and notes from the
   <strong>HTML & CSS Full Course by SuperSimpleDev</strong> on YouTube.</p>
 
-  <p>🎥 <a href="https://www.youtube.com/watch?v=G3e-cpL7ofc" target="_blank">
+  <p>🎥 <a href="https://youtu.be/G3e-cpL7ofc?si=Xa_hRHzd-1btgduV" target="_blank">
     Watch the Course</a>
   </p>
 
   <h2>✅ Status</h2>
   <ul>
     <li>📘 <strong>Course Completed</strong></li>
-    <li>📅 Started on: [Your Start Date]</li>
-    <li>📅 Finished on: [Your Finish Date]</li>
+    <li>📅 Started on: Thursday, ‎August ‎8, ‎2024</li>
+    <li>📅 Finished on: Monday, ‎August ‎19, ‎2024</li>
     <li>🧠 Still updating and revising with extra practice and projects</li>
   </ul>
 
