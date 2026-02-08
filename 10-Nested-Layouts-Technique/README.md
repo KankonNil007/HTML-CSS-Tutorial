@@ -20,8 +20,9 @@ Building complex interfaces requires thinking in boxes inside boxes. This module
 
 ## 📂 Practical Application
 
-- **YouTube Video Info**: Creating a complex layout with profile picture, text column, and subscriber button.
-- **Social Media Posts**: Replicating a Twitter/X post structure.
+- `10a.html` - `10d.html`: Exercises reinforcing nested layout structures (e.g., YouTube video info, social media posts).
+- `styles/`: CSS styles for the nested layouts.
+- `images/`: Images used in the exercises.
 
 ---
 

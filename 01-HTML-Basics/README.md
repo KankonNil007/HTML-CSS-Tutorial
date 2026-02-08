@@ -28,9 +28,8 @@ Welcome to the **HTML Basics** module! This section focuses on the fundamental b
 
 ## 📂 Featured Files
 
-- `index.html`: Your first HTML page structure.
-- `buttons.html`: Experiments with button styles and attributes.
-- `links.html`: Practice linking to external and internal pages.
+- `part-1.html`: Main lesson file covering buttons, links, and paragraphs.
+- `1a.html` - `1g.html`: Exercise files practicing specific HTML concepts.
 
 ---
 

@@ -22,10 +22,11 @@ This section breaks down the anatomy of a proper web page. We stop writing code 
 - **CSS**: `<link rel="stylesheet" href="...">` connects external styles.
 - **JavaScript**: `<script src="...">` connects interactivity.
 
-## 📂 Common Practices
+## 📂 Project Structure
 
-- Organizing code with proper indentation.
-- Using comments (`<!-- comment -->`) to document the structure.
+- `live-example.html`: Example file demonstrating proper HTML structure.
+- `6a.html` - `6h.html`: Exercises reinforcing structure concepts.
+- `styles/`: Directory containing external CSS files for the HTML structure.
 
 ---
 

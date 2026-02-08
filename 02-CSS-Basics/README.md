@@ -28,8 +28,9 @@ This module introduces **Cascading Style Sheets (CSS)**, the language responsibl
 
 ## 📂 Code Examples
 
-- Basic styling of buttons to look like Amazon or GitHub buttons.
-- Experimenting with different color palettes.
+- `part-2.html`: Main lesson file demonstrating various button styles (Uber, Amazon, GitHub, Bootstrap).
+- `2a.html` - `2f.html`: Exercise files practicing CSS styling concepts.
+- `live-example.html`: Live coding example.
 
 ---
 

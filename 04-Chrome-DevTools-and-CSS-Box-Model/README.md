@@ -26,8 +26,7 @@ Every element on a web page is a rectangular box comprised of:
 
 ## 📂 Exercises
 
-- Visualizing margins and padding with colored borders.
-- Debugging layout issues using the Inspector.
+- `4a.html` - `4k.html`: A comprehensive set of exercises to practice the Box Model and debugging techniques.
 
 ---
 

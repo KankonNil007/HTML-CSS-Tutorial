@@ -25,9 +25,9 @@ This module adds core content elements to our pages. We learn how to display med
 
 ## 📂 Examples
 
-- **Google Search Bar**: Replicating the famous search box.
-- **YouTube Profile Pictures**: Styling circular images.
-- **Login Forms**: Inputs with styled borders.
+- `7a.html` - `7g.html`: Exercises practicing images and form inputs.
+- `images/`: Directory storing image assets.
+- `styles/`: Directory containing CSS styles.
 
 ---
 

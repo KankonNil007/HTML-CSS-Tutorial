@@ -20,8 +20,9 @@ One of the most important concepts in CSS. The `display` property controls how a
 
 ## 📂 Visual Examples
 
-- Comparing `div` vs `span` behavior.
-- Creating a navigation bar using `inline-block`.
+- `8a.html` - `8e.html`: Exercises demonstrating block vs. inline-block behavior.
+- `styles/`: Directory containing CSS styles.
+- `images/`: Directory containing project images.
 
 ---
 

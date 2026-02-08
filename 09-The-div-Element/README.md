@@ -24,8 +24,9 @@ The `<div>` (division) is the universal container. This folder explores how to g
 
 ## 📂 Layout Patterns
 
-- **Video Preview Card**: Grouping thumbnail, title, and stats.
-- **Sidebar Layout**: A vertical container for links.
+- `9a.html` - `9h.html`: Exercises practicing containerization and basic layouts using divs.
+- `styles/`: Directory of CSS files.
+- `images/`: Directory of image assets.
 
 ---
 

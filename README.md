@@ -33,16 +33,22 @@ The instructor, **SuperSimpleDev**, explains everything in a beginner-friendly a
 
 ```text
 HTML-CSS-Tutorial/
-├── 01 - Introduction & Setup/
-├── 02 - Basic HTML/
-├── 03 - Basic CSS/
-├── 04 - CSS Display Property/
-├── 05 - CSS Box Model/
-├── 06 - CSS Position/
-├── 07 - Flexbox/
-├── 08 - Responsive Design/
-├── 09 - YouTube Clone Project/
-├── 10 - Google Homepage Project/
+├── 01-HTML-Basics/
+├── 02-CSS-Basics/
+├── 03-Hovers-Transitions-Shadows/
+├── 04-Chrome-DevTools-and-CSS-Box-Model/
+├── 05-Text-Styles/
+├── 06-The-HTML-Structure/
+├── 07-Images-and-TextBoxes/
+├── 08-CSS-Display-Property/
+├── 09-The-div-Element/
+├── 10-Nested-Layouts-Technique/
+├── 11-CSS-Grid/
+├── 12-CSS-FlexBox/
+├── 13-CSS-Nested-FlexBox/
+├── 14-CSS-Position/
+├── 15-Position-Absolute-and-Relative/
+├── Project-Youtube/
 └── README.md
 ```
 

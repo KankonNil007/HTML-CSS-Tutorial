@@ -24,8 +24,9 @@ Understanding the `position` property is crucial for elements that need to break
 
 ## 📂 Real-World Uses
 
-- **Fixed Header**: Creating a navbar that follows the user.
-- **Sticky Sidebar**: Keeping navigation visible while scrolling long content.
+- `14a.html` - `14f.html`: Exercises demonstrating fixed headers, sticky sidebars, and z-index stacking.
+- `styles/`: Styles defining positioning behavior.
+- `images/`: Assets for the positioned elements.
 
 ---
 

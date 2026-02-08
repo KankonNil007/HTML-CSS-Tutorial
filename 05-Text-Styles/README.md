@@ -25,8 +25,8 @@ Typography is a huge part of web design. This folder explores how to style text 
 
 ## 📂 Practice Files
 
-- Creating a news article layout with headings and body text.
-- Styling specific keywords in a sentence.
+- `live-example.html`: Main lesson file demonstrating various text styling techniques.
+- `5a.html` - `5g.html`: Exercise files practicing font properties, alignment, and decorations.
 
 ---
 

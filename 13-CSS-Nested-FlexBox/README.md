@@ -16,8 +16,9 @@ Flexbox becomes extremely powerful when you nest flex containers inside other fl
 
 ## 📂 Examples
 
-- **YouTube Header**: Aligning the hamburger menu, logo, search bar, and notifications perfectly.
-- **Twitter Post Actions**: Aligning reply, retweet, like, and share icons inside a tweet container.
+- `13a.html` - `13g.html`: Advanced exercises involving nested flex containers for complex UIs.
+- `styles/`: CSS files handling nested flexbox rules.
+- `images/`: Icons and images for the UI components.
 
 ---
 

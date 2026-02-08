@@ -27,8 +27,9 @@ This section focuses on **interactivity and polish**. We learn how to make the U
 
 ## 📂 Project Highlights
 
-- **Uber Request Components**: Replicating the request button with hover states.
-- **Subscription Buttons**: Subscribe/Joined toggle visual effects.
+- `part-3.html`: Main lesson file covering hover effects, transitions, and shadows.
+- `live-example.html`: Live coding example demonstrating these concepts.
+- `3a.html` - `3f.html`: Exercise files for practicing interactivity and visual polish.
 
 ---
 

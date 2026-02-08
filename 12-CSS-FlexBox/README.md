@@ -27,8 +27,9 @@
 
 ## 📂 Layout Challenges
 
-- **Header Layouts**: Aligning logo, search bar, and user icons.
-- **Sidebar Menus**: Distributing items evenly.
+- `12a.html` - `12g.html`: Exercises practicing flexbox properties to solve layout challenges.
+- `styles/`: CSS styles for flexbox exercises.
+- `images/`: Images used in the exercises.
 
 ---
 

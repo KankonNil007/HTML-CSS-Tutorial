@@ -21,8 +21,9 @@ This module dives deep into the powerful relationship between `position: absolut
 
 ## 📂 Practical Examples
 
-- **Video Time Badge**: Positioning the timestamp in the corner of a thumbnail.
-- **Notification Counts**: Adding a red number badge on a bell icon.
+- `15a.html` - `15f.html`: Exercises showing absolute positioning relative to containers (overlays, tooltips, notification badges).
+- `styles/`: CSS files for absolute/relative positioning.
+- `images/`: Images used (e.g., video thumbnails with time absolute positioned).
 
 ---
 

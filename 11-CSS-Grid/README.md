@@ -24,8 +24,9 @@ This folder introduces **CSS Grid**, a powerful 2-dimensional layout system tail
 
 ## 📂 Examples
 
-- **YouTube Video Grid**: Creating a responsive grid of video thumbnails.
-- **Profile Cards**: Aligning content in a structured grid.
+- `11a.html` - `11d.html`: Exercises showing how to build responsive grids for video thumbnails and profile cards.
+- `styles/`: CSS files for grid layouts.
+- `images/`: Image assets for the grid examples.
 
 ---
 
