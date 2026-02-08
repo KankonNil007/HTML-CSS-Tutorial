@@ -1,39 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-</head>
-<body>
-  <h1>🌐 HTML & CSS Learning Journey</h1>
+# 🌐 HTML & CSS Learning Journey
 
-  <p>Welcome to my HTML & CSS learning repository!<br>
-  This repo contains all my practice code, mini-projects, and notes from the
-  <strong>HTML & CSS Full Course by SuperSimpleDev</strong> on YouTube.</p>
+Welcome to my HTML & CSS learning repository!
+This repo contains all my practice code, mini-projects, and notes from the **[HTML & CSS Full Course by SuperSimpleDev](https://youtu.be/G3e-cpL7ofc?si=Xa_hRHzd-1btgduV)** on YouTube.
 
-  <p>🎥 <a href="https://youtu.be/G3e-cpL7ofc?si=Xa_hRHzd-1btgduV" target="_blank">
-    Watch the Course</a>
-  </p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-  <h2>✅ Status</h2>
-  <ul>
-    <li>📘 <strong>Course Completed</strong></li>
-    <li>📅 Started on: Thursday, ‎August ‎8, ‎2024</li>
-    <li>📅 Finished on: Monday, ‎August ‎19, ‎2024</li>
-    <li>🧠 Still updating and revising with extra practice and projects</li>
-  </ul>
+---
 
-  <h2>📚 About This Course</h2>
-  <p>This course taught the essential building blocks of web development through:</p>
-  <ul>
-    <li>Clean and semantic <strong>HTML5</strong></li>
-    <li>Stylish and flexible <strong>CSS3</strong></li>
-    <li><strong>Responsive design</strong> using Flexbox</li>
-    <li>Hands-on mini-projects (e.g., YouTube Clone, Google Homepage)</li>
-  </ul>
-  <p>The instructor, <strong>SuperSimpleDev</strong>, explains everything in a beginner-friendly and practical way. It’s perfect for those starting their front-end journey.</p>
+## ✅ Status
 
-  <h2>🗂️ Repository Structure</h2>
-  <pre>
+- 📘 **Course Completed**
+- 📅 **Started on:** Thursday, August 8, 2024
+- 📅 **Finished on:** Monday, August 19, 2024
+- 🧠 **Current State:** Updating and revising with extra practice and projects
+
+---
+
+## 📚 About This Course
+
+This course taught the essential building blocks of web development through:
+
+- Clean and semantic **HTML5**
+- Stylish and flexible **CSS3**
+- **Responsive design** using Flexbox
+- Hands-on mini-projects (e.g., YouTube Clone, Google Homepage)
+
+The instructor, **SuperSimpleDev**, explains everything in a beginner-friendly and practical way. It’s perfect for those starting their front-end journey.
+
+---
+
+## 🗂️ Repository Structure
+
+```text
 HTML-CSS-Tutorial/
 ├── 01 - Introduction & Setup/
 ├── 02 - Basic HTML/
@@ -46,24 +44,31 @@ HTML-CSS-Tutorial/
 ├── 09 - YouTube Clone Project/
 ├── 10 - Google Homepage Project/
 └── README.md
-  </pre>
-  <p>Each folder represents a lesson or project based on the <strong>SuperSimpleDev HTML & CSS Full Course</strong>, with clean and well-commented code for future reference.</p>
+```
 
-  <h2>🚀 Goals</h2>
-  <ul>
-    <li>Build fully responsive, clean web pages</li>
-    <li>Develop strong front-end foundations</li>
-    <li>Practice real-world page layouts</li>
-    <li>Prepare for JavaScript and modern frameworks (like React)</li>
-  </ul>
+Each folder represents a lesson or project based on the **SuperSimpleDev HTML & CSS Full Course**, with clean and well-commented code for future reference.
 
-  <h2>🛠 Tools & Technologies</h2>
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>Visual Studio Code</li>
-    <li>Git & GitHub</li>
-    <li>Live Server (VS Code Extension)</li>
-  </ul>
-</body>
-</html>
+---
+
+## 🚀 Goals
+
+- Build fully responsive, clean web pages
+- Develop strong front-end foundations
+- Practice real-world page layouts
+- Prepare for JavaScript and modern frameworks (like React)
+
+---
+
+## 🛠 Tools & Technologies
+
+- **HTML5**
+- **CSS3**
+- **Visual Studio Code**
+- **Git & GitHub**
+- **Live Server** (VS Code Extension)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
